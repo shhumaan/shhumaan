@@ -1,135 +1,153 @@
 <div align="center">
 
-# Anshuman
-### Systems-Oriented Builder & Strategic Thinker
+# Anshuman Arora
+### Systems-First Builder | Power Platform + Cloud + Full-Stack
 
-Hello! I'm a builder at heart, driven by a relentless curiosity to architect and optimize. My work is a reflection of a core philosophy: bridging ambitious, future-focused ideas with pragmatic, high-quality execution. I don't just write code; I design systems, iterate relentlessly, and seek the deeper "why" behind every technical challenge.
-
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://anshumandev.cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shhumaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<br/>
+<p>I ship low-code and high-code systems that behave like products: governed, observable, and CI/CD-ready.  
+Focused on business outcomes, not buzzwords—optimizing for reliability, security, and speed to value.</p>
 
 </div>
 
 ---
 
-### 🛠️ Core Technologies & Skills
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/anshuman-28507817a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://anshumandev.cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:anshuman.arora.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ My Core Toolbox
 
-### 1. AzureShield IAM
-*A resilient, enterprise-grade Identity and Access Management platform.*
+<p align="center">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="githubactions" width="40" height="40"/></a>
+</p>
+
+---
+
+## 🚀 Flagship Projects
+
+### 1) TixGenius — Full-Stack Ticketing (Monorepo)
+> Event ticketing platform designed for scale and developer velocity using a modern monorepo.
 
 <details>
-<summary>Click to see Description, Key Features & Tech Stack</summary>
+<summary><b>Why it matters & Key Features</b></summary>
 
-AzureShield IAM is a comprehensive solution built for enterprise-level security and scalability. It moves beyond basic authentication to provide a layered, dynamic, and auditable access control system, demonstrating a strategic approach to security architecture.
+**Why it matters:** Clean separation of concerns + shared packages enables fast feature delivery with consistent standards.
 
-- **Key Features**:
-  - **Advanced, Layered Security**: Implements Multi-Factor Authentication (MFA), hierarchical Role-Based Access Control (RBAC), and dynamic Attribute-Based Access Control (ABAC).
-  - **Built for Scale & High Availability**: Designed with a containerized, cloud-native architecture using Docker and prepared for Kubernetes orchestration on Azure.
-  - **Strategic & Maintainable Design**: Employs a decoupled architecture with a robust FastAPI backend and a responsive Next.js frontend, ensuring long-term maintainability.
-- **Tech Stack**: `FastAPI` `Next.js` `PostgreSQL` `SQLAlchemy` `Redis` `Docker` `Azure`
+- **Next.js 14 + Express** across a **Turborepo** monorepo with shared types, ESLint, TS configs, and a shared UI lib
+- **Quality gates**: ESLint, Prettier, Husky + lint-staged, typecheck, tests
+- **CI/CD**: GitHub Actions for build/test; Dockerized services for reproducible deploys
+- **DX**: One-command dev (`npm run dev`) spins up frontend and backend
 
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind` `Express` `Node` `Turborepo` `Docker` `GitHub Actions`
+</details>
+
+### 2) Cloud Portal CLI Assistant — Multi-Cloud Command Intelligence
+> A companion that translates cloud console intent into secure, copy-ready CLI across AWS/Azure/GCP.
+
+<details>
+<summary><b>Why it matters & Key Features</b></summary>
+
+**Why it matters:** Reduces toil and context-switching for cloud engineers; codifies institutional knowledge.
+
+- **Browser Extension** reads console context → suggests precise CLI
+- **Web App** knowledge base to save/share commands and runbooks
+- **Backend API (Node)** with auth and structured storage (PostgreSQL)
+- **AI Microservice (Python)** for command generation; optional **local-only AI** mode for privacy
+- **Security stance:** minimal data retention, end-to-end encryption paths
+
+**Stack:** `Next.js` `Node.js` `PostgreSQL` `Python (FastAPI/UVicorn)` `Docker` `(optional) Docker Compose`
+</details>
+
+### 3) AzureShield IAM — Enterprise-Grade Identity & Access
+> Opinionated IAM platform with MFA, RBAC/ABAC, auditability, and Azure-ready deployment.
+
+<details>
+<summary><b>Why it matters & Key Features</b></summary>
+
+**Why it matters:** Enforces least privilege with clear policy surfaces and auditable decision trails.
+
+- **Auth**: JWT + refresh, **MFA/TOTP**, backup codes
+- **Authorization**: **RBAC + ABAC** with hierarchical roles and dynamic policies
+- **Observability**: full audit logs, health metrics, alerting hooks
+- **Scale-ready**: Docker + Kubernetes; Azure Bicep/Terraform scaffolding
+- **DX**: strong docs, OpenAPI, migrations via Alembic
+
+**Stack:** `FastAPI (Python 3.11+)` `PostgreSQL` `SQLAlchemy` `Redis` `Next.js 14` `Material-UI` `K8s` `Azure` `GitHub Actions`
+</details>
+
+### 4) Ollama Chat Demo — Local LLM Chat UX (Next.js + NestJS)
+> A modern chat interface for **local** LLM workflows on Ollama—privacy-first, fast, and skinnable.
+
+<details>
+<summary><b>Why it matters & Key Features</b></summary>
+
+**Why it matters:** Teams can prototype LLM UX without shipping data off-prem.
+
+- **Model discovery** + selection UI; **dark mode** and responsive layout
+- **NestJS backend** orchestrates Ollama calls and model metadata
+- **Persistence**: client-side session save/restore
+- **Ops**: simple env config; split frontend/backend for clear boundaries
+
+**Stack:** `Next.js` `Tailwind` `shadcn/ui` `NestJS` `TypeScript` `Axios` `Ollama`
+</details>
+
+### 5) Portfolio v2 — Productized Personal Site
+> A next-gen portfolio showcasing projects and narrative with performance, theming, and animations.
+
+<details>
+<summary><b>Why it matters & Key Features</b></summary>
+
+**Why it matters:** Signals polish and design empathy while staying maintainable and data-driven.
+
+- **Next.js App Router**, **Framer Motion** animations, theme switching, Three.js particles
+- **Data-driven** sections from JSON; code-split for fast loads
+- **Project filters**, interactive sections, and contact form with validation
+
+**Stack:** `Next.js` `TypeScript` `Tailwind` `Framer Motion` `Three.js` `Zod` `React Hook Form`
 </details>
 
 ---
 
-### 2. TixGenius
-*A high-performance, full-stack application for event ticket management.*
-
-<details>
-<summary>Click to see Description, Key Features & Tech Stack</summary>
-
-TixGenius is a modern ticketing application architected for performance and developer efficiency. Its monorepo structure is a testament to a "tenacious optimizer" mindset, ensuring that the system is as streamlined behind the scenes as it is for the end-user.
-
-- **Key Features**:
-  - **Optimized Monorepo Workflow**: Utilizes **Turborepo** for a high-performance build system that accelerates development, testing, and deployment cycles.
-  - **End-to-End Automation**: Features a complete CI/CD pipeline with **GitHub Actions** for automated linting, testing, and containerized deployments.
-  - **Clean, Decoupled Architecture**: A clear separation of concerns between the **Next.js** frontend and the **Express.js** backend, promoting modularity and scalability.
-- **Tech Stack**: `Next.js` `Express.js` `TypeScript` `Tailwind CSS` `Turborepo` `Docker` `GitHub Actions`
-
-</details>
+## 📈 What I Optimize For
+> - **Reliability:** predictable rollouts, rollback plans, and runbooks
+> - **Speed to Value:** monorepo ergonomics, shared types, one-shot dev scripts
+> - **Governance:** audit trails, policy-as-data, environment strategy
+> - **DX:** frictionless local dev, clear conventions, low cognitive load
 
 ---
 
-### 3. Cloud Portal CLI Assistant
-*An AI-powered productivity tool for cloud engineers.*
+## 🤝 How to Contribute
 
-<details>
-<summary>Click to see Description, Key Features & Tech Stack</summary>
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shhumaan/shhumaan/issues).
 
-This project embodies a "future-obsessed" vision for developer tooling. It bridges the gap between graphical interfaces and command-line efficiency by analyzing a user's actions in a cloud console and intelligently suggesting the equivalent CLI commands.
-
-- **Key Features**:
-  - **AI-Powered Command Generation**: Integrates a dedicated AI microservice to provide context-aware CLI command suggestions, turning UI clicks into automatable scripts.
-  - **Multi-Layered System**: A sophisticated architecture combining a **Browser Extension** (the observer), a **Web App** (the knowledge base), and a **Backend API** (the brain).
-  - **Pragmatic & Practical**: Solves a real-world pain point for cloud professionals, accelerating both learning and workflow automation.
-- **Tech Stack**: `Next.js` `Node.js` `Python (AI Microservice)` `Browser Extension APIs` `Microservices`
-
-</details>
+1.  **Fork** the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'')
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a **Pull Request**
 
 ---
 
-### 4. Anshuman's Portfolio (v2)
-*An interactive digital resume and personal brand showcase.*
-
-<details>
-<summary>Click to see Description, Key Features & Tech Stack</summary>
-
-My personal portfolio, rebuilt from the ground up as a testament to the "restlessly iterative" builder mindset. It's not just a static page but a polished, interactive experience that reflects my skills, design philosophy, and obsession with detail.
-
-- **Key Features**:
-  - **Polished & Interactive UX**: A sleek, responsive design featuring smooth animations with **Framer Motion** and an immersive, theme-aware particle background using **Three.js**.
-  - **Perfectionism in the Details**: Implements dynamic theming, data-driven content from JSON files, and strategic code-splitting to optimize performance.
-  - **Modern, Iterative Build**: The second major version, re-architected using the latest **Next.js App Router** to showcase modern web development practices.
-- **Tech Stack**: `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Three.js`
-
-</details>
-
----
-
-### 5. Ollama Chat Demo
-*A modern web interface for interacting with local language models.*
-
-<details>
-<summary>Click to see Description, Key Features & Tech Stack</summary>
-
-A hands-on exploration of local AI integration, this project demonstrates the "builder-mindset" in action. It provides a clean, responsive chat interface for any Ollama model running on a user's machine, showcasing the ability to quickly prototype and build with emerging technologies.
-
-- **Key Features**:
-  - **Practical, Hands-On Prototyping**: A functional application that brings the power of large language models to the local machine with a user-friendly interface.
-  - **Decoupled & Robust Architecture**: A dedicated **NestJS** backend handles all communication with the Ollama API, serving a modern **Next.js** frontend built with Shadcn UI.
-  - **Focus on User Experience**: Features include model selection, chat persistence in local storage, and a clean, themeable UI.
-- **Tech Stack**: `Next.js` `NestJS` `TypeScript` `Tailwind CSS` `Shadcn UI` `Ollama`
-
-</details>
-
----
-
-## Let's Connect
-
-I'm always looking to collaborate on meaningful projects that challenge the status quo. Feel free to explore my work and reach out.
-
-**[Visit my full portfolio at anshumandev.cloud](https://anshumandev.cloud/)**
+*This README was enhanced with the help of an AI assistant.*
