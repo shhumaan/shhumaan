@@ -2,8 +2,7 @@
 
 # 👨‍💻 Anshuman
 ### Power Platform + Cloud + Full-Stack
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=742774&center=true&vCenter=true&width=600&lines=Power+Platform+Developer;Cloud+Solutions+Architect;Full-Stack+Engineer;Low-Code+%2B+High-Code+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=742774&center=true&vCenter=true&width=700&lines=Power+Platform+Developer;Cloud+Support+%26+Administration;Junior+DevOps+Engineer;Full-Stack+Developer+(Next.js+%2B+Node.js);Low-Code+%2B+High-Code+Specialist;CI%2FCD+%26+Automation+Enthusiast;Dataverse+•+Power+Apps+•+Power+Automate;AI+%2B+Cloud+Integration+Explorer" alt="Typing SVG" />
 
 *Hello! I specialize in building enterprise-grade systems by integrating the rapid delivery of the **Power Platform** with the scalability of **custom cloud and full-stack applications**. My passion is architecting solutions that are not only powerful but also governed, observable, and automated.*
 
